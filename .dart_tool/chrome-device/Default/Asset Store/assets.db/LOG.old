@@ -1,0 +1,13 @@
+2023/05/11-16:11:16.959 5388 Reusing MANIFEST C:\Users\tedml\AppData\Local\Temp\flutter_tools.376c72bd\flutter_tools_chrome_device.6675609c\Default\Asset Store\assets.db/MANIFEST-000001
+2023/05/11-16:11:16.961 5388 Recovering log #10
+2023/05/11-16:11:17.217 5388 Level-0 table #12: started
+2023/05/11-16:11:17.248 5388 Level-0 table #12: 398648 bytes OK
+2023/05/11-16:11:17.274 5388 Delete type=0 #10
+2023/05/11-16:11:17.276 4720 Compacting 4@0 + 0@1 files
+2023/05/11-16:11:17.311 4720 Generated table #14@0: 21 keys, 688695 bytes
+2023/05/11-16:11:17.311 4720 Compacted 4@0 + 0@1 files => 688695 bytes
+2023/05/11-16:11:17.325 4720 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/11-16:11:17.327 4720 Delete type=2 #3
+2023/05/11-16:11:17.327 4720 Delete type=2 #6
+2023/05/11-16:11:17.328 4720 Delete type=2 #9
+2023/05/11-16:11:17.328 4720 Delete type=2 #12
